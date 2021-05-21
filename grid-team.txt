@@ -8,4 +8,4 @@ Luna - WILD CARD
 
 LT - something
 
-test - failed
+test - passed
